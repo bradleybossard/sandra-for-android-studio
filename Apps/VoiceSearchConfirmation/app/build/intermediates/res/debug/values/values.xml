@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/bradleybossard/gitsrc/sandra-for-android-studio/Apps/VoiceSearchConfirmation/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <color name="speechbtn_confirming">#CC3333</color>
+    <color name="speechbtn_default">#EEEEEE</color>
+    <color name="speechbtn_listening">#99FFBB</color>
+    <string name="action_settings">VoiceSearchConfirmation</string>
+    <string name="app_name">VoiceSearchConfirmation</string>
+    <string name="confirm_prompt">Did you say</string>
+    <string name="listening_prompt">I am listening</string>
+    <string name="searching_prompt">Searching for</string>
+    <string name="speechbtn_confirming">Press to say yes or no</string>
+    <string name="speechbtn_default">Press to speak</string>
+    <string name="speechbtn_listening">I am listening!</string>
+    <!-- From: file:/Users/bradleybossard/gitsrc/sandra-for-android-studio/Apps/VoiceSearchConfirmation/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
