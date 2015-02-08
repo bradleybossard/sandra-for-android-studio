@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/bradleybossard/gitsrc/sandra-for-android-studio/Apps/GrammarTest/app/src/main/assets"><file name="sample_grammar.xml" path="/Users/bradleybossard/gitsrc/sandra-for-android-studio/Apps/GrammarTest/app/src/main/assets/sample_grammar.xml"/></source></dataSet><dataSet config="debug"><source path="/Users/bradleybossard/gitsrc/sandra-for-android-studio/Apps/GrammarTest/app/src/debug/assets"/></dataSet></merger>
