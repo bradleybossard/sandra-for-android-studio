@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+
+</menu><!-- From: file:/Users/bradleybossard/gitsrc/sandra-for-android-studio/Apps/SillyParrot/app/src/main/res/menu/multilingual_basic.xml -->
