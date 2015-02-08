@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/bradleybossard/gitsrc/sandra-for-android-studio/Apps/Stacy/app/src/main/res"><file name="ic_launcher" path="/Users/bradleybossard/gitsrc/sandra-for-android-studio/Apps/Stacy/app/src/main/res/drawable-mdpi/ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="stacy" path="/Users/bradleybossard/gitsrc/sandra-for-android-studio/Apps/Stacy/app/src/main/res/drawable-mdpi/stacy.png" qualifiers="mdpi-v4" type="drawable"/><file name="stacy" path="/Users/bradleybossard/gitsrc/sandra-for-android-studio/Apps/Stacy/app/src/main/res/layout/stacy.xml" qualifiers="" type="layout"/><file path="/Users/bradleybossard/gitsrc/sandra-for-android-studio/Apps/Stacy/app/src/main/res/values/strings.xml" qualifiers=""><string name="speech_btn_prompt">Press to speak</string><string name="presentation">Hi! I\'m Stacy. Press the Speak button to talk to me</string><string name="initial_prompt">What is your query?</string><string name="title">Chat with Stacy</string><string name="app_name">Stacy</string><string name="imageDescription">Stacy image</string></file><file path="/Users/bradleybossard/gitsrc/sandra-for-android-studio/Apps/Stacy/app/src/main/res/values/styles.xml" qualifiers=""><style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style></file></source><source path="/Users/bradleybossard/gitsrc/sandra-for-android-studio/Apps/Stacy/app/build/generated/res/rs/debug"/><source path="/Users/bradleybossard/gitsrc/sandra-for-android-studio/Apps/Stacy/app/build/generated/res/generated/debug"/></dataSet><dataSet config="debug"><source path="/Users/bradleybossard/gitsrc/sandra-for-android-studio/Apps/Stacy/app/src/debug/res"/></dataSet><mergedItems/></merger>
