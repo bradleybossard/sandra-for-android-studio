@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="asrlib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/asrlib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

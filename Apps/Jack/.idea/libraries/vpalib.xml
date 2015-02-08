@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="vpalib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/vpalib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
